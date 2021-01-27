@@ -14,6 +14,7 @@ README.md
 
 Code
 Issues
+delete the trash
 Pull requests
 Addet stuff
 Actions
